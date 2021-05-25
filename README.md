@@ -1,6 +1,9 @@
 # gerrymandering-mcmc
 Markov chain monte carlo simulator used to assess the outliership of a district plan
 
+## NOTE:
+- This is not my original code, this was provided to be used for CSE416. All credit goes to the Graduate TA Abhishek Singh who developed this code.
+- You can contact him at here: ahsingh@cs.stonybrook.edu
 
 ## Setup
 - This project was built using `python 3.7.5`, `pyenv` and `pyenv-virtualenv`
